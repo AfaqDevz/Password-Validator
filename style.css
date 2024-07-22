@@ -1,0 +1,28 @@
+body{
+    background-image: url('https://cdn.dribbble.com/users/1770290/screenshots/6164788/media/2e3c26809331296b2522650ae6b42fbe.gif');
+    background-size: cover; 
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+.firstdiv{
+    height: 100%;
+}
+
+.maindiv{
+    backdrop-filter: blur(25px);
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+}
+
+.checkboxs{
+    background-color: rgba(0, 0, 0, 0.441);
+    backdrop-filter: blur(25px);
+    border-radius: 15px;
+    color: white;
+}
+
+#strongPass{
+    color: rgb(0, 255, 0) !important;
+}
